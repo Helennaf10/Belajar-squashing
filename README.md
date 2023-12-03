@@ -1,1 +1,3 @@
 # Belajar-squashing
+
+Commit pertama
